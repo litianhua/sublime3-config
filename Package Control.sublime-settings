@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SyncedSideBar"
+	]
+}
