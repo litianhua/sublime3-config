@@ -30,6 +30,31 @@ Github资源地址： [https://github.com/wbond/package_control](https://github.
 
 # 二、使用 PackageControl 
 
-ctrl+shift+p 调用出窗口：输入install package （当然可以模糊匹配，比如可以输入pci或者install等）
+## 1. 安装插件
+	
+	ctrl+shift+p 调出命令窗口：输入install package （当然可以模糊匹配，比如可以输入pci或者install等）
 
-再安装具体的插件即可。
+	插件列表：
+
+		AdvancedNewFile
+		ConvertToUTF8
+		DocBlockr
+		Emmet
+		Git
+		Package Control
+		RailsCasts Colour Scheme
+		SyncedSideBar
+
+## 2. 移除插件
+
+	ctrl+shift+p 调出命令窗口：输入remove 选择Remove Package 并回车
+
+	再选择需要删除的插件即可
+
+## 3. 更新插件
+
+	ctrl+shift+p 调出命令窗口：输入upgrade 选择Upgrade Package 并回车
+
+	如果没有需要更新的插件，则会提醒
+
+	如果有更新的插件，则选择相应的插件即可

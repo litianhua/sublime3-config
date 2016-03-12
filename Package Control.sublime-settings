@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"Git",
