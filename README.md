@@ -59,12 +59,14 @@ Github资源地址： [https://github.com/wbond/package_control](https://github.
 
 	如果有更新的插件，则选择相应的插件即可
 
+## 作者 (About)
 
 - Stark Li
 
+- Blog：[http://www.litianhua.net/](http://www.litianhua.net/)
 
-- 作者邮箱：starkli@126.com
+- Email：starkli@126.com
 
-- github：[https://github.com/litianhua/](https://github.com/litianhua/)
+- Github：[https://github.com/litianhua/](https://github.com/litianhua/)
 
 - Git@OSC： [http://git.oschina.net/skyli/](http://git.oschina.net/skyli/)
