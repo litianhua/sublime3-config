@@ -39,17 +39,21 @@ Github资源地址： [https://github.com/wbond/package_control](https://github.
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"JsFormat",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SyncedSideBar"
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Terminal"
 	]
 
 ## 2. 移除插件

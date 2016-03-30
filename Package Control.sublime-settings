@@ -6,16 +6,20 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"JsFormat",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SyncedSideBar"
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Terminal"
 	]
 }
