@@ -10,8 +10,12 @@
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"RailsCasts Colour Scheme",
+		"SideBarEnhancements",
+		"SublimeLinter",
 		"SyncedSideBar"
 	]
 }

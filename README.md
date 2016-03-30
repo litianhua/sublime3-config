@@ -36,14 +36,21 @@ Github资源地址： [https://github.com/wbond/package_control](https://github.
 
 	插件列表：
 
-		AdvancedNewFile
-		ConvertToUTF8
-		DocBlockr
-		Emmet
-		Git
-		Package Control
-		RailsCasts Colour Scheme
-		SyncedSideBar
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SyncedSideBar"
+	]
 
 ## 2. 移除插件
 
